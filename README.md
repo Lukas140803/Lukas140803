@@ -8,6 +8,9 @@ Gosto de pegar um problema de negócio concreto e construir a ferramenta que res
 
 ### Projetos em destaque
 
+**[EdexLab FGV — páginas de marketing](https://github.com/EdexLab-FGV/portfolio)** · [ver no ar](https://edexlab-fgv.github.io/portfolio/)
+Páginas que desenvolvi no meu trabalho na EdexLab: um catálogo de MBAs e pós-graduações com filtros por cidade e modalidade, e a landing page do Hard Talks, evento de lançamento do livro *Quem Quebra, Inova!* no Hard Rock Cafe Ribeirão Preto.
+
 **[Pig Barbeiro](https://github.com/Lukas140803/pig-barbeiro)** · [ver no ar](https://lukas140803.github.io/pig-barbeiro/)
 Agendamento online e painel de gestão para uma barbearia real. Além da agenda, entrega ao barbeiro faturamento mensal, ocupação da cadeira, custo das faltas e a lista de clientes fiéis que sumiram, com mensagem pronta para chamar no WhatsApp.
 
