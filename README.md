@@ -1,4 +1,4 @@
-### Oi, eu sou o Lucas (Lub) 👋
+### Oi, eu sou o Lucas  👋
 
 Estudante de Administração na **USP Ribeirão Preto** e assistente de marketing na **FGV EdexLab**, onde trabalho com dashboards, indicadores, automação e ferramentas de IA generativa. Antes, coordenei redes sociais na Aooba.
 
